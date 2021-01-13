@@ -1,0 +1,17 @@
+{
+  "name": "vendor_name/CrawlXPhim",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Dung",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "^7.2",
+    "symfony/http-client": "^5.2"
+
+  }
+}

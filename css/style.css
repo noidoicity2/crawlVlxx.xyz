@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #081b27;
+}
+
+h1 {
+    margin-top: 10px;
+    text-align: center;
+    color: #fff601;
+}
+.label-input {
+    color: white;
+}
+
+.btn-submit {
+   justify-content: center;
+}
