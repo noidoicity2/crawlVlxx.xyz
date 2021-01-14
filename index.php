@@ -1,5 +1,6 @@
 <?php
 include "includes/simple_html_dom.php";
+require_once "config/DbConnect.php"
 ?>
 
 <!doctype html>
